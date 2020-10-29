@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npx webpackwebpack server --mode development"
+    "start": "npx webpack serve --mode development"
   },
   "keywords": [],
   "author": "",
